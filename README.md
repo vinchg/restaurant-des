@@ -1,7 +1,5 @@
 # Restaurant DES
 
-## Summary
-
 This was my final project for CECS 552: Modeling and Simulations with Dr. Ebert as CSULB.
 
 The goal of this project is to generate a reasonable accurate assessment of how a (hypothetical) restaurant will perform each day. Many assumptions are made in the simulated restaurant, such as the layout, employee salaries, customer arrival times, menu items, individual event time variance, average walking speeds, and satisfaction ratings based on how long a customer has to wait to be seated and receive their order. There are a total of 13 events, 6 entities, and many more entity states. Further details can be found within the PDF.
