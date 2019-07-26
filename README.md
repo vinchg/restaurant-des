@@ -2,7 +2,9 @@
 
 ## Summary
 
-The goal of this project is to generate a reasonable accurate assessment of how a (hypothetical) restaurant will perform each day. This was my final project for CECS 552: Modeling and Simulations with Dr. Ebert as CSULB. Many assumptions are made in the simulated restaurant, such as the layout, employee salaries, customer arrival times, menu items, individual event time variance, average walking speeds, and satisfaction ratings based on how long a customer has to wait to be seated and receive their order. There are a total of 13 events, 6 entities, and many more entity states. Further details can be found within the PDF.
+This was my final project for CECS 552: Modeling and Simulations with Dr. Ebert as CSULB.
+
+The goal of this project is to generate a reasonable accurate assessment of how a (hypothetical) restaurant will perform each day. Many assumptions are made in the simulated restaurant, such as the layout, employee salaries, customer arrival times, menu items, individual event time variance, average walking speeds, and satisfaction ratings based on how long a customer has to wait to be seated and receive their order. There are a total of 13 events, 6 entities, and many more entity states. Further details can be found within the PDF.
 
 Unfortunately, the simulation is limited to being entirely text based. Had there been more time, it would have been cool to provide a "Sims" experience with a visual representation of events. Additionally, it would have also been interesting to have attached an optimization routine onto the simulations to find configurations that would generate optimal profit margins or approval ratings.
 
